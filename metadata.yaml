@@ -1,0 +1,29 @@
+_repo: Natural-History-of-the-Ornate-Box-Turtle-Terrapene-ornata-ornata-Agassiz_37566
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37566-h/images/coverpage.png
+creator:
+  author:
+    agent_name: Legler, John M.
+    gutenberg_agent_id: '35337'
+    url: http://www.gutenberg.org/2009/agents/35337
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Reptiles and Amphibians
+gutenberg_issued: '2011-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37566'
+  lccn: '60063115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ornate box turtle'
+- !lcc 'QH'
+- !lcc 'QL'
+title: Natural History of the Ornate Box Turtle, Terrapene ornata ornata Agassiz
+url: http://www.gutenberg.org/ebooks/37566
